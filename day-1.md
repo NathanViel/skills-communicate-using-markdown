@@ -1,4 +1,8 @@
 # Daily Learning
+![Mona the Octocat](myrepo/original.png)
+
+
+<img alt="Mona the Octocat" src="https://octodex.github.com/images/original.png" width="100" align="up">
 
 ## Morning Planning
 - [ ] Check out the [github blog](https://github.blog/) for topic ideas.
@@ -21,4 +25,8 @@ Testing how GitHub works - test
 
 ```R
 read.table("ThisFileDoesNotExists.txt", header = TRUE)
+```
+
+```js
+var myVar = "Hello, world!";
 ```
