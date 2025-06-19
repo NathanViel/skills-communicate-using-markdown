@@ -7,6 +7,8 @@
 - [ ] Finish GitHub tutorials.
 - [ ] Buy strawberries
 
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="200" align="up">
+
 ## Review
 
 Convert an image or video from dark mode to light mode using [ffmpeg](https://www.ffmpeg.org)
